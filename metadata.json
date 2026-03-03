@@ -1,0 +1,5 @@
+{
+  "name": "BoutiqueMaster - Gestion de Boutique Locale",
+  "description": "Une application complète pour les petits commerçants : gestion de stock, ventes, clients et prévisions intelligentes.",
+  "requestFramePermissions": []
+}

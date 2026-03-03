@@ -1,11 +1,16 @@
-<div align="center">
+# BoutiqueMaster - Gestion de Boutique Locale
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Cette application est conçue pour aider les petits commerçants à gérer leur activité de manière professionnelle et intuitive.
 
-  <h1>Built with AI Studio</h2>
+## Fonctionnalités
+- **Tableau de bord** : Vue d'ensemble des revenus et alertes de stock.
+- **Inventaire** : Gestion complète des produits, catégories et fournisseurs.
+- **Ventes** : Système de caisse rapide avec gestion du panier.
+- **Clients** : Suivi de la fidélité et historique d'achats.
+- **Prévisions** : Analyse des tendances pour anticiper les besoins de réapprovisionnement.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Installation Locale
+1. `npm install`
+2. `npm run dev`
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+L'application utilise SQLite pour la base de données, aucune configuration complexe n'est requise.
